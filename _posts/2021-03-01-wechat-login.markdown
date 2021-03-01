@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "微信登陆"
+title:      "微信扫码登陆"
 subtitle:   " \"微信扫码登陆预研\""
 date:       2021-03-01 12:00:00
 author:     "言良"
