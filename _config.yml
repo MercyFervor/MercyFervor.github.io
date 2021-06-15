@@ -1,11 +1,11 @@
 # Site settings
 title: 言良
-SEOTitle: 言良的博客 | MercyFervor Blog
+SEOTitle: 言良的博客 | conifercone Blog
 header-img: img/home-bg.jpg
 email: sky5486560@gmail.com
 description: ""
 keyword: ""
-url: "https://mercyfervor.github.io"              # your host, for absolute URL
+url: "https://conifercone.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,8 +14,8 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     单开宇
-github_username:    MercyFervor
-twitter_username:  MercyFervor
+github_username:    conifercone
+twitter_username:  conifercone
 #facebook_username:  huxpro
 
 
